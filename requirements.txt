@@ -1,0 +1,4 @@
+gym
+stable-baselines3[extra]
+numpy
+pandas
